@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "mfEWT5a1Sb1pnTaloDHio",
+      "name": "Grazewal singh",
+      "age": "20",
+      "department": "engineer",
+      "salary": "100000",
+      "maritalStatus": "UnMarried",
+      "address": "Sapna cinema mor Anand-nagar gali no.1, Chandra Residential school"
+    },
+    {
+      "id": "DLw5Hdtp_tRTVV--lZ5ff",
+      "name": "Manju singh",
+      "age": "53",
+      "department": "Doctor",
+      "salary": "1000000000",
+      "maritalStatus": "Married",
+      "address": "Rajesh opticals bari mathiya.., Rajesh opticals bari mathiya hospital road arrah"
+    },
+    {
+      "id": "ve-9It3ipe4KgdIUf3UmP",
+      "name": "Gracy Raj Singh",
+      "age": "28",
+      "department": "Doctor",
+      "salary": "18788999",
+      "maritalStatus": "UnMarried",
+      "address": "Sapna cinema mor Anand-nagar gali no.1, Chandra Residential school"
+    },
+    {
+      "id": "9Jg-uq2YwnokapAF5Godp",
+      "name": "Alok Raj",
+      "age": "21",
+      "department": "Lawyer",
+      "salary": "1232435453",
+      "maritalStatus": "UnMarried",
+      "address": "Rajesh opticals bari mathiya.., Rajesh opticals bari mathiya hospital road arrah"
+    }
+  ]
+}
